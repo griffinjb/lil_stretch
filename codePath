@@ -1,0 +1,1 @@
+export PYTHONPATH="$(find $HOME/code -maxdepth 2 -type d | sed '/\/\./d' | tr '\n' ':' | sed 's/:$//')"
