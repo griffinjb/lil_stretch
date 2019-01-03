@@ -1,4 +1,4 @@
-.wav
-.reapeaks
+*.wav
+*.reapeaks
 pycache
-.pyc
+*.pyc
